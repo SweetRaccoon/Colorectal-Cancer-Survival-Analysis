@@ -1,0 +1,5 @@
+id	filename	md5	size	state
+706d5716-be1e-4482-a867-61dec69557c8	706d5716-be1e-4482-a867-61dec69557c8/TCGA.COAD.mutect.706d5716-be1e-4482-a867-61dec69557c8.somatic.maf.gz	ea34b7fc6f5faf1de0e4283130718cf3	33766558	submitted
+7d9db44b-21ee-46e2-8a43-ecf00c295b28	7d9db44b-21ee-46e2-8a43-ecf00c295b28/TCGA.COAD.muse.7d9db44b-21ee-46e2-8a43-ecf00c295b28.somatic.maf.gz	7b034c070c9557743130e5a6dc458d47	26197533	submitted
+ca8e871d-5a47-492b-8e9e-8558669f59bc	ca8e871d-5a47-492b-8e9e-8558669f59bc/TCGA.COAD.varscan.ca8e871d-5a47-492b-8e9e-8558669f59bc.somatic.maf.gz	825a957cb0014967e9a284687861e1d3	25507174	submitted
+fda0556a-fe17-44ef-bd5d-65831e9a4cad	fda0556a-fe17-44ef-bd5d-65831e9a4cad/TCGA.COAD.somaticsniper.fda0556a-fe17-44ef-bd5d-65831e9a4cad.somatic.maf.gz	4d05a332f481875ae1a89fea02b13461	19877284	submitted
