@@ -1,0 +1,893 @@
+Protein,Partition_type,Curve_type,p_value,test_statistic,test_result,is_significant
+14-3-3_epsilon,half,Overall,0.0673984715922,3.34526875525,Cannot Reject Null,False
+14-3-3_epsilon,quarter,Overall,0.205050885815,1.60602911376,Cannot Reject Null,False
+14-3-3_epsilon,half,Disease_Free,0.496106355399,0.463255656738,Cannot Reject Null,False
+14-3-3_epsilon,quarter,Disease_Free,0.507469550557,0.439281289218,Cannot Reject Null,False
+4E-BP1,half,Overall,0.705711368634,0.142598426217,Cannot Reject Null,False
+4E-BP1,quarter,Overall,0.666690544172,0.185497721884,Cannot Reject Null,False
+4E-BP1,half,Disease_Free,0.836780940059,0.042441259391,Cannot Reject Null,False
+4E-BP1,quarter,Disease_Free,0.968956789669,0.00151451074072,Cannot Reject Null,False
+4E-BP1_pS65,half,Overall,0.107202296595,2.59498733283,Cannot Reject Null,False
+4E-BP1_pS65,quarter,Overall,0.136799787162,2.21359236404,Cannot Reject Null,False
+4E-BP1_pS65,half,Disease_Free,0.304805187211,1.0530521842,Cannot Reject Null,False
+4E-BP1_pS65,quarter,Disease_Free,0.438900477509,0.599155356266,Cannot Reject Null,False
+4E-BP1_pT37_T46,half,Overall,0.0458439559171,3.98731893278,Reject Null,True
+4E-BP1_pT37_T46,quarter,Overall,0.556116887113,0.34647232409,Cannot Reject Null,False
+4E-BP1_pT37_T46,half,Disease_Free,0.92492019368,0.00888077828388,Cannot Reject Null,False
+4E-BP1_pT37_T46,quarter,Disease_Free,0.689673626847,0.159438907727,Cannot Reject Null,False
+53BP1,half,Overall,0.0830742536222,3.00370666338,Cannot Reject Null,False
+53BP1,quarter,Overall,0.140052381374,2.17738353562,Cannot Reject Null,False
+53BP1,half,Disease_Free,0.61634739613,0.25103478229,Cannot Reject Null,False
+53BP1,quarter,Disease_Free,0.403987136327,0.696426254614,Cannot Reject Null,False
+ACC_pS79,half,Overall,0.763885921349,0.0902292440631,Cannot Reject Null,False
+ACC_pS79,quarter,Overall,0.686021833112,0.163425821369,Cannot Reject Null,False
+ACC_pS79,half,Disease_Free,0.953061669109,0.00346478766792,Cannot Reject Null,False
+ACC_pS79,quarter,Disease_Free,0.506704025744,0.440867544106,Cannot Reject Null,False
+ACC1,half,Overall,0.998305500969,4.51027663264e-06,Cannot Reject Null,False
+ACC1,quarter,Overall,0.913196580749,0.0118826243085,Cannot Reject Null,False
+ACC1,half,Disease_Free,0.0239105926675,5.10110601896,Reject Null,True
+ACC1,quarter,Disease_Free,0.149022667813,2.08222649625,Cannot Reject Null,False
+Akt,half,Overall,0.601134128388,0.273288758986,Cannot Reject Null,False
+Akt,quarter,Overall,0.10297305173,2.65888257813,Cannot Reject Null,False
+Akt,half,Disease_Free,0.301690437772,1.0667070225,Cannot Reject Null,False
+Akt,quarter,Disease_Free,0.567737339598,0.326483103296,Cannot Reject Null,False
+Akt_pS473,half,Overall,0.648815700536,0.207396497624,Cannot Reject Null,False
+Akt_pS473,quarter,Overall,0.163891880989,1.93794459188,Cannot Reject Null,False
+Akt_pS473,half,Disease_Free,0.612444028781,0.256631259022,Cannot Reject Null,False
+Akt_pS473,quarter,Disease_Free,0.739634622106,0.11044804179,Cannot Reject Null,False
+Akt_pT308,half,Overall,0.84056304563,0.0404707082483,Cannot Reject Null,False
+Akt_pT308,quarter,Overall,0.99262652361,8.54037279296e-05,Cannot Reject Null,False
+Akt_pT308,half,Disease_Free,0.968048970859,0.00160443386614,Cannot Reject Null,False
+Akt_pT308,quarter,Disease_Free,0.392738738679,0.730445759399,Cannot Reject Null,False
+AMPK_alpha,half,Overall,0.0934203791793,2.81442478164,Cannot Reject Null,False
+AMPK_alpha,quarter,Overall,0.680553791899,0.169503105115,Cannot Reject Null,False
+AMPK_alpha,half,Disease_Free,0.781811919506,0.0767060487801,Cannot Reject Null,False
+AMPK_alpha,quarter,Disease_Free,0.720973813125,0.12756156315,Cannot Reject Null,False
+AMPK_pT172,half,Overall,0.75894204649,0.0941694211247,Cannot Reject Null,False
+AMPK_pT172,quarter,Overall,0.501101148223,0.452603566677,Cannot Reject Null,False
+AMPK_pT172,half,Disease_Free,0.406043488516,0.690355499399,Cannot Reject Null,False
+AMPK_pT172,quarter,Disease_Free,0.99264654006,8.49406607489e-05,Cannot Reject Null,False
+AR,half,Overall,0.0309941651496,4.65328580309,Reject Null,True
+AR,quarter,Overall,0.0207656778509,5.34635165813,Reject Null,True
+AR,half,Disease_Free,0.881755305784,0.0221249036956,Cannot Reject Null,False
+AR,quarter,Disease_Free,0.681213892573,0.168762578757,Cannot Reject Null,False
+ATM,half,Overall,0.841782433675,0.0398457714813,Cannot Reject Null,False
+ATM,quarter,Overall,0.900359593096,0.0156768189651,Cannot Reject Null,False
+ATM,half,Disease_Free,0.722270911538,0.12632722585,Cannot Reject Null,False
+ATM,quarter,Disease_Free,0.492590530602,0.470862750347,Cannot Reject Null,False
+Bak,half,Overall,0.103951542508,2.64384715156,Cannot Reject Null,False
+Bak,quarter,Overall,0.00685511739673,7.31054392918,Reject Null,True
+Bak,half,Disease_Free,0.127207557211,2.32625538937,Cannot Reject Null,False
+Bak,quarter,Disease_Free,0.517810313513,0.418252479345,Cannot Reject Null,False
+Bax,half,Overall,0.293632458541,1.10289130356,Cannot Reject Null,False
+Bax,quarter,Overall,0.0373535259734,4.33422005334,Reject Null,True
+Bax,half,Disease_Free,0.365475290594,0.818991165185,Cannot Reject Null,False
+Bax,quarter,Disease_Free,0.703675199186,0.144676807994,Cannot Reject Null,False
+Bcl-2,half,Overall,0.567857503603,0.326280521598,Cannot Reject Null,False
+Bcl-2,quarter,Overall,0.804900256702,0.0610140858028,Cannot Reject Null,False
+Bcl-2,half,Disease_Free,0.152467192096,2.04739179568,Cannot Reject Null,False
+Bcl-2,quarter,Disease_Free,0.0207238186732,5.34986975849,Reject Null,True
+Bcl-xL,half,Overall,0.0441182432197,4.0520307057,Reject Null,True
+Bcl-xL,quarter,Overall,0.50119922813,0.452396200312,Cannot Reject Null,False
+Bcl-xL,half,Disease_Free,0.359327103926,0.840243622641,Cannot Reject Null,False
+Bcl-xL,quarter,Disease_Free,0.548012824876,0.360889174761,Cannot Reject Null,False
+Beclin,half,Overall,0.840162413834,0.0406771364358,Cannot Reject Null,False
+Beclin,quarter,Overall,0.114333850438,2.49327138108,Cannot Reject Null,False
+Beclin,half,Disease_Free,0.158096537304,1.99233894036,Cannot Reject Null,False
+Beclin,quarter,Disease_Free,0.671749799365,0.179562141669,Cannot Reject Null,False
+beta-Catenin,half,Overall,0.571848931596,0.319598666412,Cannot Reject Null,False
+beta-Catenin,quarter,Overall,0.109271648411,2.56472368733,Cannot Reject Null,False
+beta-Catenin,half,Disease_Free,0.153143695852,2.04065495064,Cannot Reject Null,False
+beta-Catenin,quarter,Disease_Free,0.718383615835,0.130046707562,Cannot Reject Null,False
+Bid,half,Overall,0.833786991851,0.0440358156307,Cannot Reject Null,False
+Bid,quarter,Overall,0.0640537374594,3.4291841288,Cannot Reject Null,False
+Bid,half,Disease_Free,0.933641260221,0.0069329700315,Cannot Reject Null,False
+Bid,quarter,Disease_Free,0.757721618542,0.0951562595388,Cannot Reject Null,False
+Bim,half,Overall,0.67552323339,0.175209073635,Cannot Reject Null,False
+Bim,quarter,Overall,0.371765572226,0.797754546682,Cannot Reject Null,False
+Bim,half,Disease_Free,0.656735619469,0.197513239432,Cannot Reject Null,False
+Bim,quarter,Disease_Free,0.907978880478,0.0133606421222,Cannot Reject Null,False
+c-Jun_pS73,half,Overall,0.243696616404,1.35908214965,Cannot Reject Null,False
+c-Jun_pS73,quarter,Overall,0.584820955326,0.298505345904,Cannot Reject Null,False
+c-Jun_pS73,half,Disease_Free,0.0386846878346,4.27466064288,Reject Null,True
+c-Jun_pS73,quarter,Disease_Free,0.436146845515,0.606399093315,Cannot Reject Null,False
+c-Met_pY1235,half,Overall,0.0295115039479,4.7375246757,Reject Null,True
+c-Met_pY1235,quarter,Overall,0.00430410763964,8.15084603148,Reject Null,True
+c-Met_pY1235,half,Disease_Free,0.0912556198412,2.85208321577,Cannot Reject Null,False
+c-Met_pY1235,quarter,Disease_Free,0.355636365731,0.853243564167,Cannot Reject Null,False
+c-Myc,half,Overall,0.135681116451,2.22626923131,Cannot Reject Null,False
+c-Myc,quarter,Overall,0.40430749612,0.695477527003,Cannot Reject Null,False
+c-Myc,half,Disease_Free,0.959084093073,0.00263199581666,Cannot Reject Null,False
+c-Myc,quarter,Disease_Free,0.842692237084,0.0393827900112,Cannot Reject Null,False
+C-Raf,half,Overall,0.589847794901,0.290582027046,Cannot Reject Null,False
+C-Raf,quarter,Overall,0.156730174915,2.00549452899,Cannot Reject Null,False
+C-Raf,half,Disease_Free,0.420015581826,0.650271629058,Cannot Reject Null,False
+C-Raf,quarter,Disease_Free,0.464142835053,0.53588572465,Cannot Reject Null,False
+C-Raf_pS338,half,Overall,0.381447864029,0.766030477746,Cannot Reject Null,False
+C-Raf_pS338,quarter,Overall,0.671242324947,0.180152374571,Cannot Reject Null,False
+C-Raf_pS338,half,Disease_Free,0.67527014053,0.17549907856,Cannot Reject Null,False
+C-Raf_pS338,quarter,Disease_Free,0.770914312275,0.084785294076,Cannot Reject Null,False
+Caspase-7_cleavedD198,half,Overall,0.210009211148,1.57136280903,Cannot Reject Null,False
+Caspase-7_cleavedD198,quarter,Overall,0.284457325002,1.14567039527,Cannot Reject Null,False
+Caspase-7_cleavedD198,half,Disease_Free,0.0543662130184,3.7014190239,Cannot Reject Null,False
+Caspase-7_cleavedD198,quarter,Disease_Free,0.0420775835852,4.13208074267,Reject Null,True
+Caveolin-1,half,Overall,0.603667027852,0.269500515143,Cannot Reject Null,False
+Caveolin-1,quarter,Overall,0.232953500074,1.42273658036,Cannot Reject Null,False
+Caveolin-1,half,Disease_Free,0.49319326984,0.469552156097,Cannot Reject Null,False
+Caveolin-1,quarter,Disease_Free,0.509234137384,0.435640506676,Cannot Reject Null,False
+CD31,half,Overall,0.0091529315287,6.79274006021,Reject Null,True
+CD31,quarter,Overall,0.0261637357258,4.94516537311,Reject Null,True
+CD31,half,Disease_Free,0.882500894599,0.0218447331563,Cannot Reject Null,False
+CD31,quarter,Disease_Free,0.41033962746,0.677816478248,Cannot Reject Null,False
+CD49b,half,Overall,0.815997353012,0.0541475018239,Cannot Reject Null,False
+CD49b,quarter,Overall,0.781976207144,0.076587585026,Cannot Reject Null,False
+CD49b,half,Disease_Free,0.112282697631,2.52179514667,Cannot Reject Null,False
+CD49b,quarter,Disease_Free,0.0465812717865,3.96044918803,Reject Null,True
+CDK1,half,Overall,0.511231041231,0.431546575893,Cannot Reject Null,False
+CDK1,quarter,Overall,0.583330032978,0.300881969125,Cannot Reject Null,False
+CDK1,half,Disease_Free,0.84325046613,0.0391001098461,Cannot Reject Null,False
+CDK1,quarter,Disease_Free,0.715454844578,0.132889377723,Cannot Reject Null,False
+Chk1,half,Overall,0.719356010514,0.129110577714,Cannot Reject Null,False
+Chk1,quarter,Overall,0.536845211942,0.381418206398,Cannot Reject Null,False
+Chk1,half,Disease_Free,0.429935353601,0.622998091287,Cannot Reject Null,False
+Chk1,quarter,Disease_Free,0.36572693665,0.818131846872,Cannot Reject Null,False
+Chk1_pS345,half,Overall,0.338714320958,0.915291478723,Cannot Reject Null,False
+Chk1_pS345,quarter,Overall,0.246591655353,1.34251087474,Cannot Reject Null,False
+Chk1_pS345,half,Disease_Free,0.508604712345,0.43693666955,Cannot Reject Null,False
+Chk1_pS345,quarter,Disease_Free,0.618834343658,0.247509297432,Cannot Reject Null,False
+Chk2,half,Overall,0.611113976825,0.258555949574,Cannot Reject Null,False
+Chk2,quarter,Overall,0.529685900702,0.394994103953,Cannot Reject Null,False
+Chk2,half,Disease_Free,0.979620770734,0.00065251401529,Cannot Reject Null,False
+Chk2,quarter,Disease_Free,0.405234115392,0.69273955899,Cannot Reject Null,False
+Chk2_pT68,half,Overall,0.801038439719,0.0635057110426,Cannot Reject Null,False
+Chk2_pT68,quarter,Overall,0.77736111132,0.0799530018402,Cannot Reject Null,False
+Chk2_pT68,half,Disease_Free,0.157302969258,1.99996374764,Cannot Reject Null,False
+Chk2_pT68,quarter,Disease_Free,0.142531996754,2.15040812919,Cannot Reject Null,False
+cIAP,half,Overall,0.830646574694,0.0457413975335,Cannot Reject Null,False
+cIAP,quarter,Overall,0.48663200962,0.483964540069,Cannot Reject Null,False
+cIAP,half,Disease_Free,0.261300692853,1.26185268972,Cannot Reject Null,False
+cIAP,quarter,Disease_Free,0.417495515438,0.657354345582,Cannot Reject Null,False
+Claudin-7,half,Overall,0.0377448816346,4.31648191838,Reject Null,True
+Claudin-7,quarter,Overall,0.133044061712,2.256621168,Cannot Reject Null,False
+Claudin-7,half,Disease_Free,0.945967025495,0.00459306233368,Cannot Reject Null,False
+Claudin-7,quarter,Disease_Free,0.476391161182,0.507113305639,Cannot Reject Null,False
+Collagen_VI,half,Overall,0.294855212057,1.0973190609,Cannot Reject Null,False
+Collagen_VI,quarter,Overall,0.997286822905,1.15631946114e-05,Cannot Reject Null,False
+Collagen_VI,half,Disease_Free,0.82615752462,0.048238352383,Cannot Reject Null,False
+Collagen_VI,quarter,Disease_Free,0.780052350643,0.0779810166904,Cannot Reject Null,False
+Cyclin_B1,half,Overall,0.825645536666,0.0485275545808,Cannot Reject Null,False
+Cyclin_B1,quarter,Overall,0.619162261528,0.247046763636,Cannot Reject Null,False
+Cyclin_B1,half,Disease_Free,0.22897782342,1.44719965601,Cannot Reject Null,False
+Cyclin_B1,quarter,Disease_Free,0.651589262967,0.203902333402,Cannot Reject Null,False
+Cyclin_D1,half,Overall,0.0511946928578,3.80189236231,Cannot Reject Null,False
+Cyclin_D1,quarter,Overall,0.147048249896,2.10260679943,Cannot Reject Null,False
+Cyclin_D1,half,Disease_Free,0.693689654531,0.155120097569,Cannot Reject Null,False
+Cyclin_D1,quarter,Disease_Free,0.550708939842,0.356048661009,Cannot Reject Null,False
+Cyclin_E1,half,Overall,0.1379093118,2.20113331978,Cannot Reject Null,False
+Cyclin_E1,quarter,Overall,0.771149324963,0.0846064379747,Cannot Reject Null,False
+Cyclin_E1,half,Disease_Free,0.185152690924,1.75577250302,Cannot Reject Null,False
+Cyclin_E1,quarter,Disease_Free,0.377753886949,0.777998769042,Cannot Reject Null,False
+DJ-1,half,Overall,0.104757332274,2.63158133588,Cannot Reject Null,False
+DJ-1,quarter,Overall,0.0126302719772,6.22017371651,Reject Null,True
+DJ-1,half,Disease_Free,0.472610129505,0.515866807437,Cannot Reject Null,False
+DJ-1,quarter,Disease_Free,0.640550763508,0.218022577157,Cannot Reject Null,False
+Dvl3,half,Overall,0.472416061538,0.516319158817,Cannot Reject Null,False
+Dvl3,quarter,Overall,0.848901222313,0.0362980893145,Cannot Reject Null,False
+Dvl3,half,Disease_Free,0.742473309872,0.107964692297,Cannot Reject Null,False
+Dvl3,quarter,Disease_Free,0.317321668404,0.999953877546,Cannot Reject Null,False
+E-Cadherin,half,Overall,0.436613501143,0.605166587684,Cannot Reject Null,False
+E-Cadherin,quarter,Overall,0.504582903322,0.445284322715,Cannot Reject Null,False
+E-Cadherin,half,Disease_Free,0.494922844836,0.465806245546,Cannot Reject Null,False
+E-Cadherin,quarter,Disease_Free,0.782747034513,0.0760330760871,Cannot Reject Null,False
+eEF2,half,Overall,0.427316281323,0.630106419218,Cannot Reject Null,False
+eEF2,quarter,Overall,0.0242242206577,5.07850701273,Reject Null,True
+eEF2,half,Disease_Free,0.906658287164,0.0137486452369,Cannot Reject Null,False
+eEF2,quarter,Disease_Free,0.154555440424,2.02670435109,Cannot Reject Null,False
+eEF2K,half,Overall,0.361510516931,0.832639090505,Cannot Reject Null,False
+eEF2K,quarter,Overall,0.552087649589,0.353590480216,Cannot Reject Null,False
+eEF2K,half,Disease_Free,0.429818005348,0.623315180824,Cannot Reject Null,False
+eEF2K,quarter,Disease_Free,0.984812557726,0.000362361136749,Cannot Reject Null,False
+EGFR_pY1068,half,Overall,0.0062456836403,7.47801654027,Reject Null,True
+EGFR_pY1068,quarter,Overall,0.00163094952629,9.92447962199,Reject Null,True
+EGFR_pY1068,half,Disease_Free,0.397519189382,0.715817779041,Cannot Reject Null,False
+EGFR_pY1068,quarter,Disease_Free,0.483860611487,0.490149526948,Cannot Reject Null,False
+EGFR_pY1173,half,Overall,0.73742319316,0.112404398335,Cannot Reject Null,False
+EGFR_pY1173,quarter,Overall,0.690664359992,0.158367098873,Cannot Reject Null,False
+EGFR_pY1173,half,Disease_Free,0.00589335034474,7.58262665246,Reject Null,True
+EGFR_pY1173,quarter,Disease_Free,0.0191811735485,5.48492220027,Reject Null,True
+eIF4E,half,Overall,0.0300718835593,4.70517823555,Reject Null,True
+eIF4E,quarter,Overall,0.529121950255,0.396077564692,Cannot Reject Null,False
+eIF4E,half,Disease_Free,0.473318615927,0.514217951237,Cannot Reject Null,False
+eIF4E,quarter,Disease_Free,0.0247510228689,5.04122210385,Reject Null,True
+ER-alpha,half,Overall,0.0809960137902,3.04480156807,Cannot Reject Null,False
+ER-alpha,quarter,Overall,0.00179103370675,9.75224995546,Reject Null,True
+ER-alpha,half,Disease_Free,0.874849962562,0.0248065878984,Cannot Reject Null,False
+ER-alpha,quarter,Disease_Free,0.760891690734,0.092604605326,Cannot Reject Null,False
+ER-alpha_pS118,half,Overall,0.331056374736,0.944761233722,Cannot Reject Null,False
+ER-alpha_pS118,quarter,Overall,0.335353146479,0.928115284825,Cannot Reject Null,False
+ER-alpha_pS118,half,Disease_Free,0.526233328837,0.401659762786,Cannot Reject Null,False
+ER-alpha_pS118,quarter,Disease_Free,0.463985566149,0.536263081638,Cannot Reject Null,False
+ERK2,half,Overall,0.977762072919,0.000776999889616,Cannot Reject Null,False
+ERK2,quarter,Overall,0.221977127082,1.49154352832,Cannot Reject Null,False
+ERK2,half,Disease_Free,0.85547452133,0.0331742076207,Cannot Reject Null,False
+ERK2,quarter,Disease_Free,0.0141792004192,6.01569410143,Reject Null,True
+Fibronectin,half,Overall,0.527065856587,0.400045312402,Cannot Reject Null,False
+Fibronectin,quarter,Overall,0.0793582603907,3.07799581593,Cannot Reject Null,False
+Fibronectin,half,Disease_Free,0.884360263596,0.0211539804972,Cannot Reject Null,False
+Fibronectin,quarter,Disease_Free,0.195821387515,1.67326797354,Cannot Reject Null,False
+FOXO3a,half,Overall,0.0878838544496,2.91271426321,Cannot Reject Null,False
+FOXO3a,quarter,Overall,0.0024705411295,9.16228336569,Reject Null,True
+FOXO3a,half,Disease_Free,0.294738518865,1.09784956873,Cannot Reject Null,False
+FOXO3a,quarter,Disease_Free,0.40946364671,0.680357502223,Cannot Reject Null,False
+GAB2,half,Overall,0.789397046738,0.0713390247255,Cannot Reject Null,False
+GAB2,quarter,Overall,0.687401891822,0.161912392989,Cannot Reject Null,False
+GAB2,half,Disease_Free,0.589626558687,0.290927844022,Cannot Reject Null,False
+GAB2,quarter,Disease_Free,0.878262977301,0.0234615297149,Cannot Reject Null,False
+GATA3,half,Overall,0.125129384666,2.35191280777,Cannot Reject Null,False
+GATA3,quarter,Overall,0.268725656507,1.22324040973,Cannot Reject Null,False
+GATA3,half,Disease_Free,0.614374911347,0.253853175639,Cannot Reject Null,False
+GATA3,quarter,Disease_Free,0.541090837759,0.373521759673,Cannot Reject Null,False
+GSK3-alpha-beta,half,Overall,0.855021863682,0.0333846696608,Cannot Reject Null,False
+GSK3-alpha-beta,quarter,Overall,0.967737103041,0.00163592503208,Cannot Reject Null,False
+GSK3-alpha-beta,half,Disease_Free,0.636895182072,0.222825803286,Cannot Reject Null,False
+GSK3-alpha-beta,quarter,Disease_Free,0.995171018257,3.66299483892e-05,Cannot Reject Null,False
+GSK3-alpha-beta_pS21_S9,half,Overall,0.049577524332,3.85569021151,Reject Null,True
+GSK3-alpha-beta_pS21_S9,quarter,Overall,3.87844076666e-05,16.9299689638,Reject Null,True
+GSK3-alpha-beta_pS21_S9,half,Disease_Free,0.677200024526,0.173294843166,Cannot Reject Null,False
+GSK3-alpha-beta_pS21_S9,quarter,Disease_Free,0.73229576487,0.117014111087,Cannot Reject Null,False
+HER2,half,Overall,0.0525746542674,3.75738775992,Cannot Reject Null,False
+HER2,quarter,Overall,0.0534543844604,3.72965653467,Cannot Reject Null,False
+HER2,half,Disease_Free,0.527303729038,0.399584862493,Cannot Reject Null,False
+HER2,quarter,Disease_Free,0.589695829307,0.29081953774,Cannot Reject Null,False
+HER2_pY1248,half,Overall,0.0967468637314,2.75836836598,Cannot Reject Null,False
+HER2_pY1248,quarter,Overall,0.223929188909,1.47901186687,Cannot Reject Null,False
+HER2_pY1248,half,Disease_Free,0.658207403305,0.195708436106,Cannot Reject Null,False
+HER2_pY1248,quarter,Disease_Free,0.495123417241,0.465373269031,Cannot Reject Null,False
+HER3,half,Overall,0.779513607825,0.0783736503116,Cannot Reject Null,False
+HER3,quarter,Overall,0.377644075502,0.778357076779,Cannot Reject Null,False
+HER3,half,Disease_Free,0.856939731372,0.0324976747547,Cannot Reject Null,False
+HER3,quarter,Disease_Free,0.815417948708,0.0544953200532,Cannot Reject Null,False
+HER3_pY1289,half,Overall,0.820789213041,0.0513158501764,Cannot Reject Null,False
+HER3_pY1289,quarter,Overall,0.53053171926,0.39337299591,Cannot Reject Null,False
+HER3_pY1289,half,Disease_Free,0.359034119648,0.841268890091,Cannot Reject Null,False
+HER3_pY1289,quarter,Disease_Free,0.254517460968,1.29833564577,Cannot Reject Null,False
+HSP70,half,Overall,0.860653142055,0.0308152751988,Cannot Reject Null,False
+HSP70,quarter,Overall,0.183078349818,1.77245658067,Cannot Reject Null,False
+HSP70,half,Disease_Free,0.601692192054,0.272451221256,Cannot Reject Null,False
+HSP70,quarter,Disease_Free,0.42150087853,0.646126756438,Cannot Reject Null,False
+IGFBP2,half,Overall,0.0522644058822,3.76728487111,Cannot Reject Null,False
+IGFBP2,quarter,Overall,0.159243568054,1.98139457702,Cannot Reject Null,False
+IGFBP2,half,Disease_Free,0.912240393933,0.0121469216681,Cannot Reject Null,False
+IGFBP2,quarter,Disease_Free,0.777858691042,0.0795864013352,Cannot Reject Null,False
+INPP4B,half,Overall,0.183175288208,1.77167202397,Cannot Reject Null,False
+INPP4B,quarter,Overall,0.60553893235,0.266722406517,Cannot Reject Null,False
+INPP4B,half,Disease_Free,0.165981639231,1.91886678383,Cannot Reject Null,False
+INPP4B,quarter,Disease_Free,0.475204789235,0.509847708736,Cannot Reject Null,False
+IRS1,half,Overall,0.696529853393,0.152107060638,Cannot Reject Null,False
+IRS1,quarter,Overall,0.747083385483,0.103998205067,Cannot Reject Null,False
+IRS1,half,Disease_Free,0.642878396597,0.214997371659,Cannot Reject Null,False
+IRS1,quarter,Disease_Free,0.604349799033,0.268485093865,Cannot Reject Null,False
+JNK_pT183_pY185,half,Overall,0.195090223239,1.67875306513,Cannot Reject Null,False
+JNK_pT183_pY185,quarter,Overall,0.063235215319,3.45043264673,Cannot Reject Null,False
+JNK_pT183_pY185,half,Disease_Free,0.737856482684,0.112019581462,Cannot Reject Null,False
+JNK_pT183_pY185,quarter,Disease_Free,0.476234835242,0.507472978588,Cannot Reject Null,False
+JNK2,half,Overall,0.883814116758,0.0213556974773,Cannot Reject Null,False
+JNK2,quarter,Overall,0.827820772797,0.0473050967935,Cannot Reject Null,False
+JNK2,half,Disease_Free,0.615041160193,0.252898998722,Cannot Reject Null,False
+JNK2,quarter,Disease_Free,0.828015650655,0.0471963748987,Cannot Reject Null,False
+Ku80,half,Overall,0.333725685634,0.934386493015,Cannot Reject Null,False
+Ku80,quarter,Overall,0.714136098151,0.134180728567,Cannot Reject Null,False
+Ku80,half,Disease_Free,0.80871175027,0.0586067409871,Cannot Reject Null,False
+Ku80,quarter,Disease_Free,0.560152349012,0.339440508748,Cannot Reject Null,False
+Lck,half,Overall,0.760751199079,0.0927168871257,Cannot Reject Null,False
+Lck,quarter,Overall,0.35630639721,0.85086978154,Cannot Reject Null,False
+Lck,half,Disease_Free,0.983408427052,0.000432471610498,Cannot Reject Null,False
+Lck,quarter,Disease_Free,0.135976309194,2.22291274898,Cannot Reject Null,False
+LKB1,half,Overall,0.0180687033696,5.58947573081,Reject Null,True
+LKB1,quarter,Overall,0.239618548347,1.38283667762,Cannot Reject Null,False
+LKB1,half,Disease_Free,0.259661712873,1.27055966776,Cannot Reject Null,False
+LKB1,quarter,Disease_Free,0.941462313703,0.00539226606264,Cannot Reject Null,False
+MAPK_pT202_Y204,half,Overall,0.129105266179,2.30323010001,Cannot Reject Null,False
+MAPK_pT202_Y204,quarter,Overall,0.250430531302,1.32090034237,Cannot Reject Null,False
+MAPK_pT202_Y204,half,Disease_Free,0.251091701526,1.31721934577,Cannot Reject Null,False
+MAPK_pT202_Y204,quarter,Disease_Free,0.369935469075,0.803881243586,Cannot Reject Null,False
+MEK1,half,Overall,0.00769497123857,7.10312414816,Reject Null,True
+MEK1,quarter,Overall,0.0324777046294,4.57310204002,Reject Null,True
+MEK1,half,Disease_Free,0.779760507367,0.0781935789503,Cannot Reject Null,False
+MEK1,quarter,Disease_Free,0.846661718972,0.0373956557499,Cannot Reject Null,False
+MEK1_pS217_S221,half,Overall,0.0353622632228,4.42759689139,Reject Null,True
+MEK1_pS217_S221,quarter,Overall,0.00814775035492,7.00070758779,Reject Null,True
+MEK1_pS217_S221,half,Disease_Free,0.324047073341,0.972541820433,Cannot Reject Null,False
+MEK1_pS217_S221,quarter,Disease_Free,0.514837028762,0.424223619433,Cannot Reject Null,False
+MIG-6,half,Overall,0.350087094843,0.873141425635,Cannot Reject Null,False
+MIG-6,quarter,Overall,0.01189445882,6.32653348968,Reject Null,True
+MIG-6,half,Disease_Free,0.719487478851,0.128984305416,Cannot Reject Null,False
+MIG-6,quarter,Disease_Free,0.573179771973,0.317391034944,Cannot Reject Null,False
+Mre11,half,Overall,0.00710234204352,7.24690255085,Reject Null,True
+Mre11,quarter,Overall,0.0041163590326,8.23176006241,Reject Null,True
+Mre11,half,Disease_Free,0.57350875369,0.316846865378,Cannot Reject Null,False
+Mre11,quarter,Disease_Free,0.436089802616,0.606549890091,Cannot Reject Null,False
+mTOR,half,Overall,0.410786032019,0.676524624872,Cannot Reject Null,False
+mTOR,quarter,Overall,0.691745985483,0.157201737736,Cannot Reject Null,False
+mTOR,half,Disease_Free,0.375578355167,0.785124822387,Cannot Reject Null,False
+mTOR,quarter,Disease_Free,0.735966563421,0.113703458752,Cannot Reject Null,False
+mTOR_pS2448,half,Overall,0.191746754591,1.70414529048,Cannot Reject Null,False
+mTOR_pS2448,quarter,Overall,0.354829861502,0.856108980451,Cannot Reject Null,False
+mTOR_pS2448,half,Disease_Free,0.354500322881,0.857282360219,Cannot Reject Null,False
+mTOR_pS2448,quarter,Disease_Free,0.992947383679,7.8132496929e-05,Cannot Reject Null,False
+N-Cadherin,half,Overall,0.69188334116,0.157054104849,Cannot Reject Null,False
+N-Cadherin,quarter,Overall,0.813916042996,0.0554023885385,Cannot Reject Null,False
+N-Cadherin,half,Disease_Free,0.497308100012,0.460676242167,Cannot Reject Null,False
+N-Cadherin,quarter,Disease_Free,0.908919341547,0.013087756148,Cannot Reject Null,False
+NF-kB-p65_pS536,half,Overall,0.0286790858936,4.78677436964,Reject Null,True
+NF-kB-p65_pS536,quarter,Overall,0.0678405158664,3.33451230789,Cannot Reject Null,False
+NF-kB-p65_pS536,half,Disease_Free,0.877253407175,0.0238554000336,Cannot Reject Null,False
+NF-kB-p65_pS536,quarter,Disease_Free,0.406839174978,0.688018518034,Cannot Reject Null,False
+NF2,half,Overall,0.744834531433,0.105922852565,Cannot Reject Null,False
+NF2,quarter,Overall,0.833313120276,0.0442910101851,Cannot Reject Null,False
+NF2,half,Disease_Free,0.476709011197,0.506382592278,Cannot Reject Null,False
+NF2,quarter,Disease_Free,0.289455090634,1.12215411055,Cannot Reject Null,False
+Notch1,half,Overall,0.795280165486,0.0673196095608,Cannot Reject Null,False
+Notch1,quarter,Overall,0.487546171651,0.481937157587,Cannot Reject Null,False
+Notch1,half,Disease_Free,0.69383457428,0.154965532827,Cannot Reject Null,False
+Notch1,quarter,Disease_Free,0.191562055125,1.70556305317,Cannot Reject Null,False
+P-Cadherin,half,Overall,0.748538539259,0.102763209687,Cannot Reject Null,False
+P-Cadherin,quarter,Overall,0.66025685785,0.193211730289,Cannot Reject Null,False
+P-Cadherin,half,Disease_Free,0.899687748615,0.0158900666799,Cannot Reject Null,False
+P-Cadherin,quarter,Disease_Free,0.642657104537,0.215283877939,Cannot Reject Null,False
+p27,half,Overall,0.557325995016,0.344355280285,Cannot Reject Null,False
+p27,quarter,Overall,0.903574167692,0.0146767286753,Cannot Reject Null,False
+p27,half,Disease_Free,0.796890951156,0.0662407895861,Cannot Reject Null,False
+p27,quarter,Disease_Free,0.944274003775,0.0048858781564,Cannot Reject Null,False
+p27_pT157,half,Overall,0.665039157543,0.187459930222,Cannot Reject Null,False
+p27_pT157,quarter,Overall,0.401116120143,0.704977797471,Cannot Reject Null,False
+p27_pT157,half,Disease_Free,0.207462008728,1.58904934329,Cannot Reject Null,False
+p27_pT157,quarter,Disease_Free,0.723481025363,0.125181755316,Cannot Reject Null,False
+p38_MAPK,half,Overall,0.907964067476,0.0133649631145,Cannot Reject Null,False
+p38_MAPK,quarter,Overall,0.120395775204,2.41216474627,Cannot Reject Null,False
+p38_MAPK,half,Disease_Free,0.964779629669,0.00194979942939,Cannot Reject Null,False
+p38_MAPK,quarter,Disease_Free,0.926273939531,0.00856250376117,Cannot Reject Null,False
+p38_pT180_Y182,half,Overall,0.0873725148992,2.92212899949,Cannot Reject Null,False
+p38_pT180_Y182,quarter,Overall,0.0931172297209,2.81964097099,Cannot Reject Null,False
+p38_pT180_Y182,half,Disease_Free,0.475835972213,0.508391549405,Cannot Reject Null,False
+p38_pT180_Y182,quarter,Disease_Free,0.496456102845,0.462503875299,Cannot Reject Null,False
+p53,half,Overall,0.123687349843,2.36999623423,Cannot Reject Null,False
+p53,quarter,Overall,0.161965203602,1.95578145624,Cannot Reject Null,False
+p53,half,Disease_Free,0.741561416587,0.108759023947,Cannot Reject Null,False
+p53,quarter,Disease_Free,0.0730066380348,3.21409309363,Cannot Reject Null,False
+p70S6K,half,Overall,0.32141636558,0.983174347046,Cannot Reject Null,False
+p70S6K,quarter,Overall,0.211220424593,1.56304161448,Cannot Reject Null,False
+p70S6K,half,Disease_Free,0.353742337615,0.859986971222,Cannot Reject Null,False
+p70S6K,quarter,Disease_Free,0.957141417491,0.00288810846544,Cannot Reject Null,False
+p70S6K_pT389,half,Overall,0.473574996492,0.513622262832,Cannot Reject Null,False
+p70S6K_pT389,quarter,Overall,0.653716833875,0.201246187848,Cannot Reject Null,False
+p70S6K_pT389,half,Disease_Free,0.599677970636,0.275481865663,Cannot Reject Null,False
+p70S6K_pT389,quarter,Disease_Free,0.585475400388,0.297465982606,Cannot Reject Null,False
+p90RSK_pT359_S363,half,Overall,0.146518395132,2.10812865687,Cannot Reject Null,False
+p90RSK_pT359_S363,quarter,Overall,0.49054127769,0.475338782095,Cannot Reject Null,False
+p90RSK_pT359_S363,half,Disease_Free,0.524803472381,0.404443211996,Cannot Reject Null,False
+p90RSK_pT359_S363,quarter,Disease_Free,0.299798633245,1.07508966985,Cannot Reject Null,False
+Paxillin,half,Overall,0.691813118153,0.157129572047,Cannot Reject Null,False
+Paxillin,quarter,Overall,0.361811218027,0.831596750381,Cannot Reject Null,False
+Paxillin,half,Disease_Free,0.249321304292,1.32710270502,Cannot Reject Null,False
+Paxillin,quarter,Disease_Free,0.791874024277,0.0696315332437,Cannot Reject Null,False
+PCNA,half,Overall,0.147410549135,2.09884402176,Cannot Reject Null,False
+PCNA,quarter,Overall,0.198828415726,1.65095929848,Cannot Reject Null,False
+PCNA,half,Disease_Free,0.400420774212,0.707062333899,Cannot Reject Null,False
+PCNA,quarter,Disease_Free,0.590937695775,0.288882260646,Cannot Reject Null,False
+PDK1_pS241,half,Overall,0.578963323087,0.307913586239,Cannot Reject Null,False
+PDK1_pS241,quarter,Overall,0.865385674625,0.0287378786146,Cannot Reject Null,False
+PDK1_pS241,half,Disease_Free,0.282587879984,1.15460189399,Cannot Reject Null,False
+PDK1_pS241,quarter,Disease_Free,0.0657638511835,3.38570994586,Cannot Reject Null,False
+PEA15,half,Overall,0.0530774024,3.74148031181,Cannot Reject Null,False
+PEA15,quarter,Overall,0.0335113490954,4.51946295062,Reject Null,True
+PEA15,half,Disease_Free,0.953765732516,0.00336150962288,Cannot Reject Null,False
+PEA15,quarter,Disease_Free,0.346196414147,0.887350111499,Cannot Reject Null,False
+PI3K-p110-alpha,half,Overall,0.426151546974,0.633288727667,Cannot Reject Null,False
+PI3K-p110-alpha,quarter,Overall,0.00395981631031,8.30215044282,Reject Null,True
+PI3K-p110-alpha,half,Disease_Free,0.787333723244,0.0727782938242,Cannot Reject Null,False
+PI3K-p110-alpha,quarter,Disease_Free,0.905813906179,0.0139996835737,Cannot Reject Null,False
+PKC-alpha,half,Overall,0.475087445835,0.510118770339,Cannot Reject Null,False
+PKC-alpha,quarter,Overall,0.021385790753,5.29507656848,Reject Null,True
+PKC-alpha,half,Disease_Free,0.599070017733,0.276400807385,Cannot Reject Null,False
+PKC-alpha,quarter,Disease_Free,0.773267903171,0.0830033334191,Cannot Reject Null,False
+PKC-alpha_pS657,half,Overall,0.0151143843481,5.90308552725,Reject Null,True
+PKC-alpha_pS657,quarter,Overall,0.0245324572009,5.05659037355,Reject Null,True
+PKC-alpha_pS657,half,Disease_Free,0.621579169857,0.243654280298,Cannot Reject Null,False
+PKC-alpha_pS657,quarter,Disease_Free,0.835649994954,0.0430399881997,Cannot Reject Null,False
+PKC-delta_pS664,half,Overall,0.531386301415,0.391739804767,Cannot Reject Null,False
+PKC-delta_pS664,quarter,Overall,0.279324896219,1.17037161782,Cannot Reject Null,False
+PKC-delta_pS664,half,Disease_Free,0.646865204363,0.209875243586,Cannot Reject Null,False
+PKC-delta_pS664,quarter,Disease_Free,0.198882787176,1.65055957414,Cannot Reject Null,False
+PR,half,Overall,0.918735119825,0.0104095406534,Cannot Reject Null,False
+PR,quarter,Overall,0.168063424699,1.90013307292,Cannot Reject Null,False
+PR,half,Disease_Free,0.126330409305,2.33702752702,Cannot Reject Null,False
+PR,quarter,Disease_Free,0.198781678262,1.65130300236,Cannot Reject Null,False
+PRAS40_pT246,half,Overall,0.0222655980083,5.22491004697,Reject Null,True
+PRAS40_pT246,quarter,Overall,0.00818357033347,6.992855307,Reject Null,True
+PRAS40_pT246,half,Disease_Free,0.888931906193,0.0195037581551,Cannot Reject Null,False
+PRAS40_pT246,quarter,Disease_Free,0.428678799119,0.626400275369,Cannot Reject Null,False
+PTEN,half,Overall,0.88537420275,0.0207820776931,Cannot Reject Null,False
+PTEN,quarter,Overall,0.587962022059,0.293538226933,Cannot Reject Null,False
+PTEN,half,Disease_Free,0.257679777794,1.28117984775,Cannot Reject Null,False
+PTEN,quarter,Disease_Free,0.277386134047,1.1798519677,Cannot Reject Null,False
+Rad50,half,Overall,0.594091168731,0.284000325661,Cannot Reject Null,False
+Rad50,quarter,Overall,0.506711698117,0.440851625639,Cannot Reject Null,False
+Rad50,half,Disease_Free,0.394419176154,0.725274599539,Cannot Reject Null,False
+Rad50,quarter,Disease_Free,0.346762208185,0.885270410602,Cannot Reject Null,False
+Rad51,half,Overall,0.855301199528,0.0332547119197,Cannot Reject Null,False
+Rad51,quarter,Overall,0.880545014943,0.0225835818158,Cannot Reject Null,False
+Rad51,half,Disease_Free,0.693775537601,0.155028487893,Cannot Reject Null,False
+Rad51,quarter,Disease_Free,0.349301780444,0.875992046509,Cannot Reject Null,False
+Rb_pS807_S811,half,Overall,0.00518378251914,7.8141813339,Reject Null,True
+Rb_pS807_S811,quarter,Overall,0.0213663354949,5.29666174969,Reject Null,True
+Rb_pS807_S811,half,Disease_Free,0.566829588928,0.328016155962,Cannot Reject Null,False
+Rb_pS807_S811,quarter,Disease_Free,0.751704127816,0.100104615212,Cannot Reject Null,False
+S6,half,Overall,0.869181470565,0.0271255235564,Cannot Reject Null,False
+S6,quarter,Overall,0.125760126774,2.34407580322,Cannot Reject Null,False
+S6,half,Disease_Free,0.99767732657,8.47417459572e-06,Cannot Reject Null,False
+S6,quarter,Disease_Free,0.786016755295,0.0737050087183,Cannot Reject Null,False
+S6_pS235_S236,half,Overall,0.891904060313,0.0184675293824,Cannot Reject Null,False
+S6_pS235_S236,quarter,Overall,0.590184478188,0.290056262523,Cannot Reject Null,False
+S6_pS235_S236,half,Disease_Free,0.492854329579,0.470288816242,Cannot Reject Null,False
+S6_pS235_S236,quarter,Disease_Free,0.337431702968,0.920164807323,Cannot Reject Null,False
+S6_pS240_S244,half,Overall,0.354008316042,0.859037016415,Cannot Reject Null,False
+S6_pS240_S244,quarter,Overall,0.415213478342,0.663823107518,Cannot Reject Null,False
+S6_pS240_S244,half,Disease_Free,0.8495211984,0.0359972369782,Cannot Reject Null,False
+S6_pS240_S244,quarter,Disease_Free,0.836643162993,0.0425139654778,Cannot Reject Null,False
+Shc_pY317,half,Overall,0.0304335102874,4.68463602826,Reject Null,True
+Shc_pY317,quarter,Overall,0.165380358762,1.92432772343,Cannot Reject Null,False
+Shc_pY317,half,Disease_Free,0.718907653417,0.129541739066,Cannot Reject Null,False
+Shc_pY317,quarter,Disease_Free,0.441822919531,0.5915433892,Cannot Reject Null,False
+Smad1,half,Overall,0.888100881496,0.0197986498591,Cannot Reject Null,False
+Smad1,quarter,Overall,0.192312783043,1.69981033485,Cannot Reject Null,False
+Smad1,half,Disease_Free,0.158189368876,1.99144983515,Cannot Reject Null,False
+Smad1,quarter,Disease_Free,0.0871193978155,2.92681147416,Cannot Reject Null,False
+Smad3,half,Overall,0.0360268425964,4.39583363718,Reject Null,True
+Smad3,quarter,Overall,0.478957270772,0.501236607958,Cannot Reject Null,False
+Smad3,half,Disease_Free,0.363591391425,0.825450433283,Cannot Reject Null,False
+Smad3,quarter,Disease_Free,0.273125370262,1.20098263192,Cannot Reject Null,False
+Smad4,half,Overall,0.0486981155216,3.88572903711,Reject Null,True
+Smad4,quarter,Overall,0.209610229822,1.57411632022,Cannot Reject Null,False
+Smad4,half,Disease_Free,0.554173049654,0.349894159969,Cannot Reject Null,False
+Smad4,quarter,Disease_Free,0.926030402074,0.00861932887869,Cannot Reject Null,False
+Src,half,Overall,0.655839250999,0.198617291383,Cannot Reject Null,False
+Src,quarter,Overall,0.96902952649,0.0015074182434,Cannot Reject Null,False
+Src,half,Disease_Free,0.581859859699,0.30323753533,Cannot Reject Null,False
+Src,quarter,Disease_Free,0.15588286276,2.01371825282,Cannot Reject Null,False
+Src_pY416,half,Overall,9.60784696375e-06,19.5878457875,Reject Null,True
+Src_pY416,quarter,Overall,0.00359934169104,8.47563777884,Reject Null,True
+Src_pY416,half,Disease_Free,0.519766748095,0.414356124895,Cannot Reject Null,False
+Src_pY416,quarter,Disease_Free,0.759049549815,0.094082763645,Cannot Reject Null,False
+Src_pY527,half,Overall,0.00228066200278,9.3087164712,Reject Null,True
+Src_pY527,quarter,Overall,0.00485732181184,7.93180872566,Reject Null,True
+Src_pY527,half,Disease_Free,0.635375785433,0.224841044759,Cannot Reject Null,False
+Src_pY527,quarter,Disease_Free,0.207990617475,1.58535789087,Cannot Reject Null,False
+STAT3_pY705,half,Overall,0.901360816091,0.0153617389661,Cannot Reject Null,False
+STAT3_pY705,quarter,Overall,0.521261446547,0.411396698116,Cannot Reject Null,False
+STAT3_pY705,half,Disease_Free,0.326090003904,0.964363246014,Cannot Reject Null,False
+STAT3_pY705,quarter,Disease_Free,0.575036601263,0.314327695006,Cannot Reject Null,False
+STAT5-alpha,half,Overall,0.11208517352,2.52457221636,Cannot Reject Null,False
+STAT5-alpha,quarter,Overall,0.431963230874,0.617539136435,Cannot Reject Null,False
+STAT5-alpha,half,Disease_Free,0.647044067152,0.209647198045,Cannot Reject Null,False
+STAT5-alpha,quarter,Disease_Free,0.350620991708,0.871208392263,Cannot Reject Null,False
+Stathmin,half,Overall,0.0219998390451,5.24579774534,Reject Null,True
+Stathmin,quarter,Overall,0.0367701179352,4.36102763164,Reject Null,True
+Stathmin,half,Disease_Free,0.720674557242,0.127847299969,Cannot Reject Null,False
+Stathmin,quarter,Disease_Free,0.160995069264,1.96485468164,Cannot Reject Null,False
+Syk,half,Overall,0.183022009208,1.77291278649,Cannot Reject Null,False
+Syk,quarter,Overall,0.0855809865719,2.9555914854,Cannot Reject Null,False
+Syk,half,Disease_Free,0.799469330758,0.0645332471879,Cannot Reject Null,False
+Syk,quarter,Disease_Free,0.849206951034,0.0361495679198,Cannot Reject Null,False
+Tuberin,half,Overall,0.625539682306,0.238157998159,Cannot Reject Null,False
+Tuberin,quarter,Overall,0.39674400426,0.718172539606,Cannot Reject Null,False
+Tuberin,half,Disease_Free,0.767015193433,0.0877826647607,Cannot Reject Null,False
+Tuberin,quarter,Disease_Free,0.980683703879,0.000586208950658,Cannot Reject Null,False
+VEGFR2,half,Overall,0.802996400276,0.0622358251651,Cannot Reject Null,False
+VEGFR2,quarter,Overall,0.202585127442,1.62363899413,Cannot Reject Null,False
+VEGFR2,half,Disease_Free,0.896831934861,0.0168128613968,Cannot Reject Null,False
+VEGFR2,quarter,Disease_Free,0.564414851935,0.332117547191,Cannot Reject Null,False
+XRCC1,half,Overall,0.125508611664,2.34719564464,Cannot Reject Null,False
+XRCC1,quarter,Overall,0.287581268353,1.1309102305,Cannot Reject Null,False
+XRCC1,half,Disease_Free,0.995723783883,2.87238947841e-05,Cannot Reject Null,False
+XRCC1,quarter,Disease_Free,0.924760241488,0.00891877114046,Cannot Reject Null,False
+YAP,half,Overall,0.658003071589,0.1959584095,Cannot Reject Null,False
+YAP,quarter,Overall,0.603553218839,0.269670009153,Cannot Reject Null,False
+YAP,half,Disease_Free,0.00921040225859,6.7815665066,Reject Null,True
+YAP,quarter,Disease_Free,0.9543790317,0.00327282332106,Cannot Reject Null,False
+YAP_pS127,half,Overall,0.0343323278682,4.4780770972,Reject Null,True
+YAP_pS127,quarter,Overall,0.288167219363,1.12816437762,Cannot Reject Null,False
+YAP_pS127,half,Disease_Free,0.162798687306,1.94803563319,Cannot Reject Null,False
+YAP_pS127,quarter,Disease_Free,0.483719097614,0.490466916489,Cannot Reject Null,False
+YB-1,half,Overall,0.820595737095,0.0514286313057,Cannot Reject Null,False
+YB-1,quarter,Overall,0.336246713099,0.924689326812,Cannot Reject Null,False
+YB-1,half,Disease_Free,0.883616648029,0.0214288723484,Cannot Reject Null,False
+YB-1,quarter,Disease_Free,0.536672837216,0.381741215775,Cannot Reject Null,False
+YB-1_pS102,half,Overall,0.00461399833195,8.0248446486,Reject Null,True
+YB-1_pS102,quarter,Overall,0.00698388675554,7.27710844052,Reject Null,True
+YB-1_pS102,half,Disease_Free,0.694593564975,0.154157480937,Cannot Reject Null,False
+YB-1_pS102,quarter,Disease_Free,0.826410490544,0.0480957961158,Cannot Reject Null,False
+c-Kit,half,Overall,0.460537594605,0.5445877836,Cannot Reject Null,False
+c-Kit,quarter,Overall,0.945402752293,0.00468964599751,Cannot Reject Null,False
+c-Kit,half,Disease_Free,0.846606420717,0.0374229715892,Cannot Reject Null,False
+c-Kit,quarter,Disease_Free,0.917471862118,0.0107368571795,Cannot Reject Null,False
+PAI-1,half,Overall,0.596397650643,0.280463397099,Cannot Reject Null,False
+PAI-1,quarter,Overall,0.579450857202,0.307123258582,Cannot Reject Null,False
+PAI-1,half,Disease_Free,0.715118278498,0.133218279446,Cannot Reject Null,False
+PAI-1,quarter,Disease_Free,0.243141681643,1.36228605094,Cannot Reject Null,False
+ASNS,half,Overall,0.0955234908975,2.77873666312,Cannot Reject Null,False
+ASNS,quarter,Overall,0.465728488269,0.532092421148,Cannot Reject Null,False
+ASNS,half,Disease_Free,0.562451744101,0.335476909684,Cannot Reject Null,False
+ASNS,quarter,Disease_Free,0.655796432525,0.198670122946,Cannot Reject Null,False
+EGFR,half,Overall,0.0720972697549,3.23461449305,Cannot Reject Null,False
+EGFR,quarter,Overall,0.886583190103,0.0203430326671,Cannot Reject Null,False
+EGFR,half,Disease_Free,0.0798954953545,3.06702630768,Cannot Reject Null,False
+EGFR,quarter,Disease_Free,0.225799626539,1.46712642745,Cannot Reject Null,False
+4E-BP1_pT70,half,Overall,0.427577225132,0.629395254932,Cannot Reject Null,False
+4E-BP1_pT70,quarter,Overall,0.353231965943,0.861812525205,Cannot Reject Null,False
+4E-BP1_pT70,half,Disease_Free,0.443546643555,0.587089910907,Cannot Reject Null,False
+4E-BP1_pT70,quarter,Disease_Free,0.40495173914,0.693572953461,Cannot Reject Null,False
+A-Raf_pS299,half,Overall,0.0388387280632,4.26790758391,Reject Null,True
+A-Raf_pS299,quarter,Overall,0.192533350285,1.69812514192,Cannot Reject Null,False
+A-Raf_pS299,half,Disease_Free,0.909159126578,0.0130186360229,Cannot Reject Null,False
+A-Raf_pS299,quarter,Disease_Free,0.864397455008,0.0291655046497,Cannot Reject Null,False
+Annexin_VII,half,Overall,0.188479724692,1.72946117827,Cannot Reject Null,False
+Annexin_VII,quarter,Overall,0.0060438650603,7.53717742117,Reject Null,True
+Annexin_VII,half,Disease_Free,0.693837570832,0.154962337781,Cannot Reject Null,False
+Annexin_VII,quarter,Disease_Free,0.81427658313,0.0551839215752,Cannot Reject Null,False
+ARID1A,half,Overall,0.227273343316,1.4578448239,Cannot Reject Null,False
+ARID1A,quarter,Overall,0.503828718471,0.446862421765,Cannot Reject Null,False
+ARID1A,half,Disease_Free,0.535721920453,0.383526517579,Cannot Reject Null,False
+ARID1A,quarter,Disease_Free,0.88656113451,0.0203509993465,Cannot Reject Null,False
+B-Raf,half,Overall,0.24815600752,1.33365512082,Cannot Reject Null,False
+B-Raf,quarter,Overall,0.276741974486,1.18302032314,Cannot Reject Null,False
+B-Raf,half,Disease_Free,0.0627445682216,3.46331068075,Cannot Reject Null,False
+B-Raf,quarter,Disease_Free,0.497472180484,0.460324877304,Cannot Reject Null,False
+Bad_pS112,half,Overall,0.00727731461309,7.20321371279,Reject Null,True
+Bad_pS112,quarter,Overall,0.00968469985918,6.69199076346,Reject Null,True
+Bad_pS112,half,Disease_Free,0.502306441943,0.450060043707,Cannot Reject Null,False
+Bad_pS112,quarter,Disease_Free,0.422862469967,0.642346225039,Cannot Reject Null,False
+Bap1-c-4,half,Overall,0.837877312064,0.0418650058244,Cannot Reject Null,False
+Bap1-c-4,quarter,Overall,0.534796856294,0.385268816588,Cannot Reject Null,False
+Bap1-c-4,half,Disease_Free,0.614473717795,0.253711526459,Cannot Reject Null,False
+Bap1-c-4,quarter,Disease_Free,0.379886197876,0.771070145029,Cannot Reject Null,False
+BRCA2,half,Overall,0.323538039925,0.974590273414,Cannot Reject Null,False
+BRCA2,quarter,Overall,0.169333613425,1.88883293792,Cannot Reject Null,False
+BRCA2,half,Disease_Free,0.312337576447,1.02076517411,Cannot Reject Null,False
+BRCA2,quarter,Disease_Free,0.268877239395,1.22246600774,Cannot Reject Null,False
+CD20,half,Overall,0.0707647845089,3.26519093148,Cannot Reject Null,False
+CD20,quarter,Overall,0.00073469501593,11.3993577505,Reject Null,True
+CD20,half,Disease_Free,0.126833610994,2.33083763915,Cannot Reject Null,False
+CD20,quarter,Disease_Free,0.833456208352,0.0442138716751,Cannot Reject Null,False
+Cyclin_E2,half,Overall,0.213166181934,1.54979178326,Cannot Reject Null,False
+Cyclin_E2,quarter,Overall,0.24066457038,1.37669700105,Cannot Reject Null,False
+Cyclin_E2,half,Disease_Free,0.792798409369,0.068999980833,Cannot Reject Null,False
+Cyclin_E2,quarter,Disease_Free,0.236064098746,1.40394539261,Cannot Reject Null,False
+eIF4G,half,Overall,0.52337005719,0.407247156662,Cannot Reject Null,False
+eIF4G,quarter,Overall,0.774247903172,0.0822673943061,Cannot Reject Null,False
+eIF4G,half,Disease_Free,0.638411926953,0.220825132281,Cannot Reject Null,False
+eIF4G,quarter,Disease_Free,0.924245262317,0.00904164805748,Cannot Reject Null,False
+ETS-1,half,Overall,0.990406256101,0.000144582939251,Cannot Reject Null,False
+ETS-1,quarter,Overall,0.171349384351,1.87109793734,Cannot Reject Null,False
+ETS-1,half,Disease_Free,0.359478754285,0.83971338999,Cannot Reject Null,False
+ETS-1,quarter,Disease_Free,0.410214216921,0.67817977677,Cannot Reject Null,False
+FASN,half,Overall,0.097306345046,2.74914672081,Cannot Reject Null,False
+FASN,quarter,Overall,0.0709305128185,3.26135453163,Cannot Reject Null,False
+FASN,half,Disease_Free,0.318293313845,0.995946558785,Cannot Reject Null,False
+FASN,quarter,Disease_Free,0.200032781401,1.64213505668,Cannot Reject Null,False
+FOXO3a_pS318_S321,half,Overall,0.396099280083,0.720136067784,Cannot Reject Null,False
+FOXO3a_pS318_S321,quarter,Overall,0.859513909782,0.0313265122174,Cannot Reject Null,False
+FOXO3a_pS318_S321,half,Disease_Free,0.803848502222,0.0616874262576,Cannot Reject Null,False
+FOXO3a_pS318_S321,quarter,Disease_Free,0.909935460899,0.0127961224594,Cannot Reject Null,False
+FoxM1,half,Overall,0.287381056435,1.13185008408,Cannot Reject Null,False
+FoxM1,quarter,Overall,0.470528411908,0.520734784857,Cannot Reject Null,False
+FoxM1,half,Disease_Free,0.530918720647,0.392632811783,Cannot Reject Null,False
+FoxM1,quarter,Disease_Free,0.903231342627,0.014781791891,Cannot Reject Null,False
+G6PD,half,Overall,0.461519192945,0.542207768979,Cannot Reject Null,False
+G6PD,quarter,Overall,0.79770243928,0.0657008161257,Cannot Reject Null,False
+G6PD,half,Disease_Free,0.0812789390609,3.03914054991,Cannot Reject Null,False
+G6PD,quarter,Disease_Free,0.240571413269,1.37724247412,Cannot Reject Null,False
+GAPDH,half,Overall,0.208642395506,1.58082155022,Cannot Reject Null,False
+GAPDH,quarter,Overall,0.236320262708,1.40241126791,Cannot Reject Null,False
+GAPDH,half,Disease_Free,0.390633828064,0.736968131277,Cannot Reject Null,False
+GAPDH,quarter,Disease_Free,0.154457058601,2.02767184917,Cannot Reject Null,False
+GSK3_pS9,half,Overall,0.0909712068002,2.85710292218,Cannot Reject Null,False
+GSK3_pS9,quarter,Overall,0.000474321526053,12.2140029638,Reject Null,True
+GSK3_pS9,half,Disease_Free,0.380241017319,0.769922536579,Cannot Reject Null,False
+GSK3_pS9,quarter,Disease_Free,0.595022272517,0.282569081724,Cannot Reject Null,False
+Heregulin,half,Overall,0.0112425561859,6.42656878786,Reject Null,True
+Heregulin,quarter,Overall,0.0659195146567,3.38181276261,Cannot Reject Null,False
+Heregulin,half,Disease_Free,0.0236356049963,5.12117518875,Reject Null,True
+Heregulin,quarter,Disease_Free,0.0663764308679,3.37042994244,Cannot Reject Null,False
+MYH11,half,Overall,0.476799727959,0.506174186804,Cannot Reject Null,False
+MYH11,quarter,Overall,0.514995061778,0.423904731628,Cannot Reject Null,False
+MYH11,half,Disease_Free,0.160945272423,1.9653220898,Cannot Reject Null,False
+MYH11,quarter,Disease_Free,0.393786680723,0.727217235012,Cannot Reject Null,False
+Myosin-IIa_pS1943,half,Overall,0.0493962283243,3.86183662519,Reject Null,True
+Myosin-IIa_pS1943,quarter,Overall,0.00205121818328,9.50312890485,Reject Null,True
+Myosin-IIa_pS1943,half,Disease_Free,0.653151701784,0.201949679888,Cannot Reject Null,False
+Myosin-IIa_pS1943,quarter,Disease_Free,0.806623459086,0.0599193483825,Cannot Reject Null,False
+N-Ras,half,Overall,0.00547230378047,7.71634619701,Reject Null,True
+N-Ras,quarter,Overall,0.00887231903781,6.84834968633,Reject Null,True
+N-Ras,half,Disease_Free,0.854841463316,0.0334687380168,Cannot Reject Null,False
+N-Ras,quarter,Disease_Free,0.238336758908,1.39040475024,Cannot Reject Null,False
+NDRG1_pT346,half,Overall,0.178560701725,1.80956266089,Cannot Reject Null,False
+NDRG1_pT346,quarter,Overall,0.0090697367849,6.8090428499,Reject Null,True
+NDRG1_pT346,half,Disease_Free,0.768367722411,0.0867365261727,Cannot Reject Null,False
+NDRG1_pT346,quarter,Disease_Free,0.662243143148,0.190810206943,Cannot Reject Null,False
+p21,half,Overall,0.764003469533,0.0901366781543,Cannot Reject Null,False
+p21,quarter,Overall,0.605389720218,0.266943184453,Cannot Reject Null,False
+p21,half,Disease_Free,0.688427694241,0.160792753679,Cannot Reject Null,False
+p21,quarter,Disease_Free,0.4207665788,0.648173165182,Cannot Reject Null,False
+p27_pT198,half,Overall,0.305989143431,1.04790904955,Cannot Reject Null,False
+p27_pT198,quarter,Overall,0.502511366497,0.449628626464,Cannot Reject Null,False
+p27_pT198,half,Disease_Free,0.178918889434,1.80658122017,Cannot Reject Null,False
+p27_pT198,quarter,Disease_Free,0.238688465549,1.38832325699,Cannot Reject Null,False
+p90RSK,half,Overall,0.392290299598,0.731831103968,Cannot Reject Null,False
+p90RSK,quarter,Overall,0.668778888225,0.183033814573,Cannot Reject Null,False
+p90RSK,half,Disease_Free,0.0596822108492,3.54619365415,Cannot Reject Null,False
+p90RSK,quarter,Disease_Free,0.240887216422,1.37539435679,Cannot Reject Null,False
+PDCD4,half,Overall,0.0036222855568,8.46407931156,Reject Null,True
+PDCD4,quarter,Overall,0.0740097854762,3.19177114404,Cannot Reject Null,False
+PDCD4,half,Disease_Free,0.696306305494,0.152342977375,Cannot Reject Null,False
+PDCD4,quarter,Disease_Free,0.417081354741,0.658524441374,Cannot Reject Null,False
+PDK1,half,Overall,0.0698212741203,3.28721697979,Cannot Reject Null,False
+PDK1,quarter,Overall,0.398504718292,0.712833627269,Cannot Reject Null,False
+PDK1,half,Disease_Free,0.700182304936,0.148282282317,Cannot Reject Null,False
+PDK1,quarter,Disease_Free,0.26850159715,1.22438607629,Cannot Reject Null,False
+PEA15_pS116,half,Overall,0.220858611838,1.49878365181,Cannot Reject Null,False
+PEA15_pS116,quarter,Overall,0.0116976988256,6.35612131653,Reject Null,True
+PEA15_pS116,half,Disease_Free,0.0567153202015,3.63092400656,Cannot Reject Null,False
+PEA15_pS116,quarter,Disease_Free,0.288902058252,1.12473083628,Cannot Reject Null,False
+PKC-pan_BetaII_pS660,half,Overall,0.0426021775974,4.11111854305,Reject Null,True
+PKC-pan_BetaII_pS660,quarter,Overall,0.00499075658733,7.88278497493,Reject Null,True
+PKC-pan_BetaII_pS660,half,Disease_Free,0.580187449285,0.305931706489,Cannot Reject Null,False
+PKC-pan_BetaII_pS660,quarter,Disease_Free,0.784209353084,0.0749870838539,Cannot Reject Null,False
+PI3K-p85,half,Overall,0.556868199989,0.34515581332,Cannot Reject Null,False
+PI3K-p85,quarter,Overall,0.141996366304,2.15619028746,Cannot Reject Null,False
+PI3K-p85,half,Disease_Free,0.0275003020252,4.85912360826,Reject Null,True
+PI3K-p85,quarter,Disease_Free,0.253560468715,1.30357923525,Cannot Reject Null,False
+PRDX1,half,Overall,0.294275922524,1.0999552625,Cannot Reject Null,False
+PRDX1,quarter,Overall,0.19208381931,1.70156206819,Cannot Reject Null,False
+PRDX1,half,Disease_Free,0.292959148428,1.10597235271,Cannot Reject Null,False
+PRDX1,quarter,Disease_Free,0.558247066936,0.342748410892,Cannot Reject Null,False
+Rab11,half,Overall,0.583750529771,0.300210430591,Cannot Reject Null,False
+Rab11,quarter,Overall,0.900915556619,0.0155014588992,Cannot Reject Null,False
+Rab11,half,Disease_Free,0.290585640687,1.11690603798,Cannot Reject Null,False
+Rab11,quarter,Disease_Free,0.745674273893,0.105201890335,Cannot Reject Null,False
+Rab25,half,Overall,0.346843370745,0.884972456908,Cannot Reject Null,False
+Rab25,quarter,Overall,0.150464576235,2.06753465728,Cannot Reject Null,False
+Rab25,half,Disease_Free,0.424225029963,0.638581207278,Cannot Reject Null,False
+Rab25,quarter,Disease_Free,0.861027163337,0.0306483763458,Cannot Reject Null,False
+Raptor,half,Overall,0.00149273476119,10.0875619564,Reject Null,True
+Raptor,quarter,Overall,0.0228375272286,5.1808212451,Reject Null,True
+Raptor,half,Disease_Free,0.665620521914,0.186767744969,Cannot Reject Null,False
+Raptor,quarter,Disease_Free,0.830334930483,0.0459125016563,Cannot Reject Null,False
+RBM15,half,Overall,0.0416365358942,4.14991817319,Reject Null,True
+RBM15,quarter,Overall,0.298199822422,1.08222732337,Cannot Reject Null,False
+RBM15,half,Disease_Free,0.795408209441,0.0672335122069,Cannot Reject Null,False
+RBM15,quarter,Disease_Free,0.710236796044,0.138040547485,Cannot Reject Null,False
+Rictor,half,Overall,0.032412255254,4.57655820592,Reject Null,True
+Rictor,quarter,Overall,0.111363478541,2.53476481451,Cannot Reject Null,False
+Rictor,half,Disease_Free,0.536314486226,0.382413326947,Cannot Reject Null,False
+Rictor,quarter,Disease_Free,0.251858686808,1.31296411439,Cannot Reject Null,False
+Rictor_pT1135,half,Overall,0.215240317608,1.53582499537,Cannot Reject Null,False
+Rictor_pT1135,quarter,Overall,0.285685731151,1.13984192918,Cannot Reject Null,False
+Rictor_pT1135,half,Disease_Free,0.283070215465,1.1522903332,Cannot Reject Null,False
+Rictor_pT1135,quarter,Disease_Free,0.599603711162,0.27559400676,Cannot Reject Null,False
+SCD,half,Overall,0.0137048316479,6.07577297938,Reject Null,True
+SCD,quarter,Overall,0.122646123745,2.38319953861,Cannot Reject Null,False
+SCD,half,Disease_Free,0.576650494714,0.311680982337,Cannot Reject Null,False
+SCD,quarter,Disease_Free,0.414843542214,0.664876710075,Cannot Reject Null,False
+TAZ,half,Overall,0.752376193168,0.0995451191309,Cannot Reject Null,False
+TAZ,quarter,Overall,0.808497404954,0.0587407600651,Cannot Reject Null,False
+TAZ,half,Disease_Free,0.294739930098,1.09784315141,Cannot Reject Null,False
+TAZ,quarter,Disease_Free,0.383902508208,0.758167817899,Cannot Reject Null,False
+TIGAR,half,Overall,0.17021191247,1.88107592284,Cannot Reject Null,False
+TIGAR,quarter,Overall,0.348161193547,0.880147828635,Cannot Reject Null,False
+TIGAR,half,Disease_Free,0.412427567476,0.671791895541,Cannot Reject Null,False
+TIGAR,quarter,Disease_Free,0.321963404853,0.980953949431,Cannot Reject Null,False
+Transglutaminase,half,Overall,0.668681988082,0.183147709719,Cannot Reject Null,False
+Transglutaminase,quarter,Overall,0.970313337588,0.00138497872576,Cannot Reject Null,False
+Transglutaminase,half,Disease_Free,0.674524988488,0.176354544072,Cannot Reject Null,False
+Transglutaminase,quarter,Disease_Free,0.686468563614,0.162935022438,Cannot Reject Null,False
+TFRC,half,Overall,0.357040112051,0.848277393129,Cannot Reject Null,False
+TFRC,quarter,Overall,0.70430429487,0.144032834133,Cannot Reject Null,False
+TFRC,half,Disease_Free,0.0331293345063,4.53908301818,Reject Null,True
+TFRC,quarter,Disease_Free,0.537145058399,0.380856780285,Cannot Reject Null,False
+TSC1,half,Overall,0.383900652319,0.758173735698,Cannot Reject Null,False
+TSC1,quarter,Overall,0.712032556214,0.13625524583,Cannot Reject Null,False
+TSC1,half,Disease_Free,0.615534424793,0.252194013172,Cannot Reject Null,False
+TSC1,quarter,Disease_Free,0.997843057198,7.30799417042e-06,Cannot Reject Null,False
+Tuberin_pT1462,half,Overall,0.302951946265,1.06115481459,Cannot Reject Null,False
+Tuberin_pT1462,quarter,Overall,0.423879076235,0.639535425921,Cannot Reject Null,False
+Tuberin_pT1462,half,Disease_Free,0.669749696474,0.181895051037,Cannot Reject Null,False
+Tuberin_pT1462,quarter,Disease_Free,0.971692569296,0.00125922419228,Cannot Reject Null,False
+Acetyl-a-Tubulin-Lys40,half,Overall,0.0332484146224,4.53294188353,Reject Null,True
+Acetyl-a-Tubulin-Lys40,quarter,Overall,0.114689999608,2.48837620138,Cannot Reject Null,False
+Acetyl-a-Tubulin-Lys40,half,Disease_Free,0.121359364303,2.39968913676,Cannot Reject Null,False
+Acetyl-a-Tubulin-Lys40,quarter,Disease_Free,0.359623279587,0.839208355948,Cannot Reject Null,False
+p62-LCK-ligand,half,Overall,0.379289677508,0.773002912433,Cannot Reject Null,False
+p62-LCK-ligand,quarter,Overall,0.634022341517,0.22664554169,Cannot Reject Null,False
+p62-LCK-ligand,half,Disease_Free,0.54381332414,0.368517764337,Cannot Reject Null,False
+p62-LCK-ligand,quarter,Disease_Free,0.721480735723,0.127078363286,Cannot Reject Null,False
+SF2,half,Overall,0.178165984869,1.81285617039,Cannot Reject Null,False
+SF2,quarter,Overall,0.000163142406043,14.2141123773,Reject Null,True
+SF2,half,Disease_Free,0.738723861575,0.111251441046,Cannot Reject Null,False
+SF2,quarter,Disease_Free,0.571268438655,0.32056476627,Cannot Reject Null,False
+EPPK1,half,Overall,0.190874376132,1.71085577175,Cannot Reject Null,False
+EPPK1,quarter,Overall,0.158965310186,1.98404130616,Cannot Reject Null,False
+EPPK1,half,Disease_Free,0.840159915847,0.0406784252545,Cannot Reject Null,False
+EPPK1,quarter,Disease_Free,0.874731047137,0.0248541445734,Cannot Reject Null,False
+XBP1,half,Overall,0.445516876749,0.582032167551,Cannot Reject Null,False
+XBP1,quarter,Overall,0.944802199708,0.00479354859275,Cannot Reject Null,False
+XBP1,half,Disease_Free,0.917215915669,0.0108037981061,Cannot Reject Null,False
+XBP1,quarter,Disease_Free,0.706276513131,0.142024611379,Cannot Reject Null,False
+14-3-3_beta,half,Overall,0.913689301173,0.0117475809971,Cannot Reject Null,False
+14-3-3_beta,quarter,Overall,0.250932164913,1.31810645951,Cannot Reject Null,False
+14-3-3_beta,half,Disease_Free,0.975744131854,0.000924458338607,Cannot Reject Null,False
+14-3-3_beta,quarter,Disease_Free,0.824141525234,0.0493823566393,Cannot Reject Null,False
+14-3-3_zeta,half,Overall,0.213808202191,1.54545135578,Cannot Reject Null,False
+14-3-3_zeta,quarter,Overall,0.00289644407671,8.8715796152,Reject Null,True
+14-3-3_zeta,half,Disease_Free,0.0830668348244,3.00385138046,Cannot Reject Null,False
+14-3-3_zeta,quarter,Disease_Free,0.325210321756,0.967876593904,Cannot Reject Null,False
+ACVRL1,half,Overall,0.0872806283666,2.92382713042,Cannot Reject Null,False
+ACVRL1,quarter,Overall,0.262412816693,1.25598304754,Cannot Reject Null,False
+ACVRL1,half,Disease_Free,0.517460552787,0.418951773563,Cannot Reject Null,False
+ACVRL1,quarter,Disease_Free,0.485466925379,0.486557570045,Cannot Reject Null,False
+DIRAS3,half,Overall,0.11435890907,2.49292640691,Cannot Reject Null,False
+DIRAS3,quarter,Overall,0.0948741108805,2.78966412743,Cannot Reject Null,False
+DIRAS3,half,Disease_Free,0.657016326505,0.197168251769,Cannot Reject Null,False
+DIRAS3,quarter,Disease_Free,0.953412172649,0.00341317681798,Cannot Reject Null,False
+Annexin-1,half,Overall,0.463116566243,0.538351875798,Cannot Reject Null,False
+Annexin-1,quarter,Overall,0.910296772096,0.0126932255576,Cannot Reject Null,False
+Annexin-1,half,Disease_Free,0.191807209306,1.70368158313,Cannot Reject Null,False
+Annexin-1,quarter,Disease_Free,0.85597270345,0.032943373768,Cannot Reject Null,False
+PREX1,half,Overall,0.0733281785339,3.20690254379,Cannot Reject Null,False
+PREX1,quarter,Overall,0.0561396575426,3.64790882008,Cannot Reject Null,False
+PREX1,half,Disease_Free,0.106815952938,2.60070851483,Cannot Reject Null,False
+PREX1,quarter,Disease_Free,0.0451805140441,4.0118886192,Reject Null,True
+ENY2,half,Overall,0.150721876791,2.06492972308,Cannot Reject Null,False
+ENY2,quarter,Overall,0.128262279012,2.31341140197,Cannot Reject Null,False
+ENY2,half,Disease_Free,0.449102727041,0.572915418344,Cannot Reject Null,False
+ENY2,quarter,Disease_Free,0.0683016946909,3.32336983301,Cannot Reject Null,False
+GCN5L2,half,Overall,0.87985771057,0.0228462001269,Cannot Reject Null,False
+GCN5L2,quarter,Overall,0.823895625227,0.0495228582997,Cannot Reject Null,False
+GCN5L2,half,Disease_Free,0.90324958293,0.0147761923349,Cannot Reject Null,False
+GCN5L2,quarter,Disease_Free,0.845040280008,0.0382009007226,Cannot Reject Null,False
+ADAR1,half,Overall,0.0393785315622,4.24446256107,Reject Null,True
+ADAR1,quarter,Overall,0.0527142380951,3.75295509522,Cannot Reject Null,False
+ADAR1,half,Disease_Free,0.321308014118,0.9836147295,Cannot Reject Null,False
+ADAR1,quarter,Disease_Free,0.805369604524,0.0607148711167,Cannot Reject Null,False
+JAB1,half,Overall,0.101698564798,2.67870240209,Cannot Reject Null,False
+JAB1,quarter,Overall,0.211725116631,1.55959099418,Cannot Reject Null,False
+JAB1,half,Disease_Free,0.126122652901,2.33959114131,Cannot Reject Null,False
+JAB1,quarter,Disease_Free,0.314098866678,1.01336152363,Cannot Reject Null,False
+c-Met,half,Overall,0.144932068756,2.12479607891,Cannot Reject Null,False
+c-Met,quarter,Overall,0.428204760719,0.627687674577,Cannot Reject Null,False
+c-Met,half,Disease_Free,0.651136326499,0.20447050438,Cannot Reject Null,False
+c-Met,quarter,Disease_Free,0.778806007908,0.0788909621095,Cannot Reject Null,False
+Caspase-8,half,Overall,0.491682794704,0.472841603162,Cannot Reject Null,False
+Caspase-8,quarter,Overall,0.542853074137,0.370277447841,Cannot Reject Null,False
+Caspase-8,half,Disease_Free,0.0710694577719,3.25814552587,Cannot Reject Null,False
+Caspase-8,quarter,Disease_Free,0.26495877972,1.24266126087,Cannot Reject Null,False
+ERCC1,half,Overall,0.829363737725,0.0464478657196,Cannot Reject Null,False
+ERCC1,quarter,Overall,0.465884287007,0.531720822937,Cannot Reject Null,False
+ERCC1,half,Disease_Free,0.825666995898,0.0485154148946,Cannot Reject Null,False
+ERCC1,quarter,Disease_Free,0.512793953402,0.428361660423,Cannot Reject Null,False
+MSH2,half,Overall,0.368901595774,0.807361094672,Cannot Reject Null,False
+MSH2,quarter,Overall,0.836366754047,0.0426600243736,Cannot Reject Null,False
+MSH2,half,Disease_Free,0.26017431755,1.26782919092,Cannot Reject Null,False
+MSH2,quarter,Disease_Free,0.938488091624,0.00595525068397,Cannot Reject Null,False
+MSH6,half,Overall,0.343798688347,0.896214821312,Cannot Reject Null,False
+MSH6,quarter,Overall,0.953135211741,0.00345392646688,Cannot Reject Null,False
+MSH6,half,Disease_Free,0.759108817154,0.09403500743,Cannot Reject Null,False
+MSH6,quarter,Disease_Free,0.734515205913,0.115006089752,Cannot Reject Null,False
+PARP_cleaved,half,Overall,0.230715596231,1.43644430931,Cannot Reject Null,False
+PARP_cleaved,quarter,Overall,0.00432582377177,8.14171973614,Reject Null,True
+PARP_cleaved,half,Disease_Free,0.740507763008,0.109680861766,Cannot Reject Null,False
+PARP_cleaved,quarter,Disease_Free,0.246290009636,1.34422638546,Cannot Reject Null,False
+Rb,half,Overall,0.50462881547,0.445188383822,Cannot Reject Null,False
+Rb,quarter,Overall,0.76632310717,0.0883206105528,Cannot Reject Null,False
+Rb,half,Disease_Free,0.23016872591,1.43981842235,Cannot Reject Null,False
+Rb,quarter,Disease_Free,0.818357164174,0.0527430153821,Cannot Reject Null,False
+SETD2,half,Overall,0.768670128984,0.0865035564125,Cannot Reject Null,False
+SETD2,quarter,Overall,0.381616864162,0.765486845376,Cannot Reject Null,False
+SETD2,half,Disease_Free,0.402867346485,0.69975108335,Cannot Reject Null,False
+SETD2,quarter,Disease_Free,0.322168444345,0.980122987796,Cannot Reject Null,False
+Smac,half,Overall,0.0276397089353,4.85040080844,Reject Null,True
+Smac,quarter,Overall,0.0555025118749,3.66692445899,Cannot Reject Null,False
+Smac,half,Disease_Free,0.0716539954943,3.24471856364,Cannot Reject Null,False
+Smac,quarter,Disease_Free,0.180232381198,1.79570686916,Cannot Reject Null,False
+Snail,half,Overall,0.331463086581,0.943173290265,Cannot Reject Null,False
+Snail,quarter,Overall,0.69501479298,0.153710076482,Cannot Reject Null,False
+Snail,half,Disease_Free,0.451326805819,0.567317595025,Cannot Reject Null,False
+Snail,quarter,Disease_Free,0.429286234463,0.624753734346,Cannot Reject Null,False
+Axl,half,Overall,0.762495943278,0.0913277427815,Cannot Reject Null,False
+Axl,quarter,Overall,0.566769558496,0.32811770632,Cannot Reject Null,False
+Axl,half,Disease_Free,0.669856526342,0.181769995528,Cannot Reject Null,False
+Axl,quarter,Disease_Free,0.663848430186,0.188882385957,Cannot Reject Null,False
+Myosin-IIa,half,Overall,0.643304011463,0.214446980566,Cannot Reject Null,False
+Myosin-IIa,quarter,Overall,0.946293810221,0.00453758993762,Cannot Reject Null,False
+Myosin-IIa,half,Disease_Free,0.588871076467,0.292110749856,Cannot Reject Null,False
+Myosin-IIa,quarter,Disease_Free,0.356283217977,0.850951798551,Cannot Reject Null,False
+SLC1A5,half,Overall,0.111612017994,2.53124646962,Cannot Reject Null,False
+SLC1A5,quarter,Overall,0.163957439763,1.93734187751,Cannot Reject Null,False
+SLC1A5,half,Disease_Free,0.21814874728,1.51650770644,Cannot Reject Null,False
+SLC1A5,quarter,Disease_Free,0.209220786989,1.57680999488,Cannot Reject Null,False
+GATA6,half,Overall,0.776924871898,0.0802751573672,Cannot Reject Null,False
+GATA6,quarter,Overall,0.976249832518,0.000886301588826,Cannot Reject Null,False
+GATA6,half,Disease_Free,0.933524435996,0.00695745917763,Cannot Reject Null,False
+GATA6,quarter,Disease_Free,0.86270224191,0.0299066366274,Cannot Reject Null,False
+BRD4,half,Overall,0.277626428803,1.17867242703,Cannot Reject Null,False
+BRD4,quarter,Overall,0.254518913803,1.2983277038,Cannot Reject Null,False
+BRD4,half,Disease_Free,0.637010967065,0.222672687592,Cannot Reject Null,False
+BRD4,quarter,Disease_Free,0.300580152782,1.07161849206,Cannot Reject Null,False
+CDK1_pY15,half,Overall,0.910539754658,0.0126242637293,Cannot Reject Null,False
+CDK1_pY15,quarter,Overall,0.178724198739,1.80820090735,Cannot Reject Null,False
+CDK1_pY15,half,Disease_Free,0.616279334752,0.251131704111,Cannot Reject Null,False
+CDK1_pY15,quarter,Disease_Free,0.664200876628,0.188460683936,Cannot Reject Null,False
+A-Raf,half,Overall,0.709588113277,0.138688704164,Cannot Reject Null,False
+A-Raf,quarter,Overall,0.614743462092,0.253325072623,Cannot Reject Null,False
+A-Raf,half,Disease_Free,0.696603240771,0.152029658678,Cannot Reject Null,False
+A-Raf,quarter,Disease_Free,0.570090189962,0.322531622463,Cannot Reject Null,False
+B-Raf_pS445,half,Overall,0.769061870628,0.0862022701749,Cannot Reject Null,False
+B-Raf_pS445,quarter,Overall,0.691780504031,0.157164628895,Cannot Reject Null,False
+B-Raf_pS445,half,Disease_Free,0.530440208831,0.393548161992,Cannot Reject Null,False
+B-Raf_pS445,quarter,Disease_Free,0.0956511414916,2.77659813157,Cannot Reject Null,False
+Bcl2A1,half,Overall,0.591356846954,0.28823027956,Cannot Reject Null,False
+Bcl2A1,quarter,Overall,0.0753200321347,3.16309996389,Cannot Reject Null,False
+Bcl2A1,half,Disease_Free,0.266266115298,1.23588228963,Cannot Reject Null,False
+Bcl2A1,quarter,Disease_Free,0.890235873085,0.0190455870701,Cannot Reject Null,False
+c-Abl,half,Overall,0.295126538595,1.09608660142,Cannot Reject Null,False
+c-Abl,quarter,Overall,0.887363486672,0.0200622063793,Cannot Reject Null,False
+c-Abl,half,Disease_Free,0.105060206007,2.62699766423,Cannot Reject Null,False
+c-Abl,quarter,Disease_Free,0.88585089323,0.0206083957948,Cannot Reject Null,False
+Caspase-3,half,Overall,0.395945387052,0.720605435739,Cannot Reject Null,False
+Caspase-3,quarter,Overall,0.543142218777,0.369746978603,Cannot Reject Null,False
+Caspase-3,half,Disease_Free,0.0254911214431,4.99020956392,Reject Null,True
+Caspase-3,quarter,Disease_Free,0.0242996040582,5.0731203816,Reject Null,True
+CD26,half,Overall,0.548130389507,0.360677176244,Cannot Reject Null,False
+CD26,quarter,Overall,0.312960538896,1.01814031184,Cannot Reject Null,False
+CD26,half,Disease_Free,0.627224705114,0.235843094705,Cannot Reject Null,False
+CD26,quarter,Disease_Free,0.708541903114,0.139737710243,Cannot Reject Null,False
+Chk1_pS296,half,Overall,0.0795303191572,3.07447395427,Cannot Reject Null,False
+Chk1_pS296,quarter,Overall,0.149033250705,2.08211808095,Cannot Reject Null,False
+Chk1_pS296,half,Disease_Free,0.895785214775,0.0171577188584,Cannot Reject Null,False
+Chk1_pS296,quarter,Disease_Free,0.660150669081,0.193340622615,Cannot Reject Null,False
+COG3,half,Overall,0.793202917538,0.0687245827183,Cannot Reject Null,False
+COG3,quarter,Overall,0.589253065171,0.291512258817,Cannot Reject Null,False
+COG3,half,Disease_Free,0.371798043547,0.797646221799,Cannot Reject Null,False
+COG3,quarter,Disease_Free,0.84158967746,0.0399442225753,Cannot Reject Null,False
+DUSP4,half,Overall,0.0309401073695,4.6562826973,Reject Null,True
+DUSP4,quarter,Overall,0.815255457064,0.0545930751296,Cannot Reject Null,False
+DUSP4,half,Disease_Free,0.220374769302,1.50192914889,Cannot Reject Null,False
+DUSP4,quarter,Disease_Free,0.348060850763,0.880514317306,Cannot Reject Null,False
+ERCC5,half,Overall,0.279558219197,1.16923628378,Cannot Reject Null,False
+ERCC5,quarter,Overall,0.241026409855,1.37458071584,Cannot Reject Null,False
+ERCC5,half,Disease_Free,0.542928648664,0.370138747352,Cannot Reject Null,False
+ERCC5,quarter,Disease_Free,0.823019734252,0.0500250249283,Cannot Reject Null,False
+IGF1R_pY1135_Y1136,half,Overall,0.0259064266318,4.96225342861,Reject Null,True
+IGF1R_pY1135_Y1136,quarter,Overall,0.0850259465436,2.96611261659,Cannot Reject Null,False
+IGF1R_pY1135_Y1136,half,Disease_Free,0.38399396896,0.757876231005,Cannot Reject Null,False
+IGF1R_pY1135_Y1136,quarter,Disease_Free,0.844365798681,0.0385384870329,Cannot Reject Null,False
+IRF-1,half,Overall,0.674615965976,0.17624996703,Cannot Reject Null,False
+IRF-1,quarter,Overall,0.581221996079,0.3042632689,Cannot Reject Null,False
+IRF-1,half,Disease_Free,0.858915407167,0.0315968319059,Cannot Reject Null,False
+IRF-1,quarter,Disease_Free,0.929971061383,0.00772311363431,Cannot Reject Null,False
+Jak2,half,Overall,0.300999283821,1.06976167567,Cannot Reject Null,False
+Jak2,quarter,Overall,0.446133268967,0.580456944592,Cannot Reject Null,False
+Jak2,half,Disease_Free,0.145392871503,2.11993334658,Cannot Reject Null,False
+Jak2,quarter,Disease_Free,0.0510401423009,3.80695556051,Cannot Reject Null,False
+p16_INK4a,half,Overall,0.690806815667,0.158213329803,Cannot Reject Null,False
+p16_INK4a,quarter,Overall,0.791588693236,0.0698270968654,Cannot Reject Null,False
+p16_INK4a,half,Disease_Free,0.699611845968,0.148875967968,Cannot Reject Null,False
+p16_INK4a,quarter,Disease_Free,0.312078928299,1.02185699948,Cannot Reject Null,False
+SHP-2_pY542,half,Overall,0.000619435217754,11.7166452479,Reject Null,True
+SHP-2_pY542,quarter,Overall,0.0335620099579,4.51687859602,Reject Null,True
+SHP-2_pY542,half,Disease_Free,0.665573155784,0.18682408327,Cannot Reject Null,False
+SHP-2_pY542,quarter,Disease_Free,0.582525575958,0.30216941835,Cannot Reject Null,False
+PD-L1,half,Overall,0.11755791759,2.44955865212,Cannot Reject Null,False
+PD-L1,quarter,Overall,0.00307771356029,8.76081576035,Reject Null,True
+PD-L1,half,Disease_Free,0.0834530848637,2.99633537054,Cannot Reject Null,False
+PD-L1,quarter,Disease_Free,0.344414581717,0.893929817933,Cannot Reject Null,False
