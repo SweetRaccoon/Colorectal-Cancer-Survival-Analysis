@@ -1,14 +1,17 @@
 # Colorectal-Cancer-Survival-Analysis
 Colorectal Cancer Patients Survival Analysis based on the TCGA database by applying the Kaplan-Meier Survival Statistical Methods
 
-Please check the word and ppt files I uploaded here to get to know more about my project.
+# Prep
 
-If you noticed any error or bugs for my code or even the whole project design, please let me know, I highly appreciate!
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    brew install python3
+    pip install pandas
+    pip install numpy
+    
+# Get Started
 
-Acknowledgements:
+    cd users/....
+Make sure the data and the python code are in the same directory
 
-Thanks for Dr. Timothy Starr's supervising on this project
+    python3 xxxx.py
 
-Thanks for Starr Lab
-
-Data download from TCGA database
